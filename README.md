@@ -12,3 +12,6 @@ SQL:
 Python:
 - 🔗 Projeto:[Análise de Filmes da Netflix - Década de 1990](https://github.com/ryan77-del/netflix-1990s-analise)
 - 🔗 Projeto:[Análise Exploratória de Dados – Escolas de NYC](https://github.com/ryan77-del/eda-schools-datacamp)
+
+Linux:
+- 🔗 Projeto:[Projeto de Infraestrutura como Código (IaC) utilizando Bash](https://lnkd.in/dqQtHcdE)
