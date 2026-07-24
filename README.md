@@ -14,4 +14,4 @@ Python:
 - 🔗 Projeto:[Análise Exploratória de Dados – Escolas de NYC](https://github.com/ryan77-del/eda-schools-datacamp)
 
 Linux:
-- 🔗 Projeto:[Projeto de Infraestrutura como Código (IaC) utilizando Bash](https://lnkd.in/dqQtHcdE)
+- 🔗 Projeto:[Projeto de Infraestrutura como Código (IaC) utilizando Bash](https://github.com/ryan77-del/linux-project)
