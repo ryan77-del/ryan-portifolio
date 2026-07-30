@@ -10,9 +10,9 @@ SQL:
 - 🔗 Projeto: [Projeto de modelagem de banco de dados - E-commerce](https://github.com/ryan77-del/ecommerce-modelagem-bd)
 
 Python:
-- 🔗 Projeto:[Análise de Filmes da Netflix - Década de 1990](https://github.com/ryan77-del/netflix-1990s-analise)
-- 🔗 Projeto:[Análise Exploratória de Dados – Escolas de NYC](https://github.com/ryan77-del/eda-schools-datacamp)
+- 🔗 Projeto: [Análise de Filmes da Netflix - Década de 1990](https://github.com/ryan77-del/netflix-1990s-analise)
+- 🔗 Projeto: [Análise Exploratória de Dados – Escolas de NYC](https://github.com/ryan77-del/eda-schools-datacamp)
 
 Linux:
-- 🔗 Projeto:[Projeto de Infraestrutura como Código (IaC) utilizando Bash](https://github.com/ryan77-del/linux-project)
-- 🔗 Projeto:[Projeto de Provisinamento de servidor web com apache no linux](https://github.com/ryan77-del/linux-web-server-provision/tree/main)
+- 🔗 Projeto: [Projeto de Infraestrutura como Código (IaC) utilizando Bash](https://github.com/ryan77-del/linux-project)
+- 🔗 Projeto: [Projeto de Provisinamento de servidor web com apache no linux](https://github.com/ryan77-del/linux-web-server-provision/tree/main)
