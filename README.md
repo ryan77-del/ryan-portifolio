@@ -15,4 +15,4 @@ Python:
 
 Linux:
 - 🔗 Projeto: [Projeto de Infraestrutura como Código (IaC) utilizando Bash](https://github.com/ryan77-del/linux-project)
-- 🔗 Projeto: [Projeto de Provisinamento de servidor web com apache no linux](https://github.com/ryan77-del/linux-web-server-provision/tree/main)
+- 🔗 Projeto: [Projeto de Provisionamento de servidor web com apache no linux](https://github.com/ryan77-del/linux-web-server-provision/tree/main)
